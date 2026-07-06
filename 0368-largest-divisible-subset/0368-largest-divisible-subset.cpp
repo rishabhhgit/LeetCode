@@ -1,8 +1,5 @@
 class Solution {
 public:
-    vector<int> curr;
-    vector<int> best;
-
     vector<int> largestDivisibleSubset(vector<int>& nums) {
         sort(nums.begin(),nums.end());
         vector<int>prev_idx(nums.size(),-1);
