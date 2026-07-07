@@ -5,16 +5,20 @@ public:
     bool check(string x,string y){
         
         if(x.size()!=y.size()) return false;
-        vector<int>diff;
+        int first=-1;
+        int second=-1;
+        int count=0;
         for(int i=0;i<x.size();i++){
             if(x[i]!=y[i]){
-                diff.push_back(i);
+                if(first==-1) first=i;
+                else second=i;
+                count++;
             }
         }
-        if(diff.size()==0) return true;
-        else if(diff.size()!=2) return false;
+        if(count==0) return true;
+        else if(count!=2) return false;
 
-        return x[diff[0]]==y[diff[1]] && x[diff[1]]==y[diff[0]];
+        return x[first]==y[second] && x[second]==y[first];
     }
 
     int find(int i){
