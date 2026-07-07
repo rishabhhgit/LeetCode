@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int>parent;
     vector<int>rank;
-    bool check(string x,string y){
+    bool check(string &x,string &y){
         
         if(x.size()!=y.size()) return false;
         int first=-1;
@@ -58,7 +58,6 @@ public:
                 }
             }
         }
-        int count=0;
         unordered_set<int>s1;
         for(int i=0;i<s.size();i++){
             s1.insert(find(i));
