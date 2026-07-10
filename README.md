@@ -32,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/rishabhhgit/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishabhhgit/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2542-maximum-subsequence-score](https://github.com/rishabhhgit/LeetCode/tree/master/2542-maximum-subsequence-score) |
 ## Hash Table
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/rishabhhgit/LeetCode/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rishabhhgit/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rishabhhgit/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Prefix Sum
 |  |
@@ -65,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/rishabhhgit/LeetCode/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/rishabhhgit/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishabhhgit/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2542-maximum-subsequence-score](https://github.com/rishabhhgit/LeetCode/tree/master/2542-maximum-subsequence-score) |
@@ -91,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rishabhhgit/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rishabhhgit/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/rishabhhgit/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/rishabhhgit/LeetCode/tree/master/2542-maximum-subsequence-score) |
