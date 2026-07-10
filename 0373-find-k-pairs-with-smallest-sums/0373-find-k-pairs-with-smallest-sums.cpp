@@ -1,8 +1,7 @@
 class Solution {
 public:
     typedef pair<int,pair<int,int>>p;
-    vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2,
-                                       int k) {
+    vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) {
         priority_queue<p> pq;
         vector<vector<int>> result;
 
