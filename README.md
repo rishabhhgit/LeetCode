@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rishabhhgit/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/rishabhhgit/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/rishabhhgit/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/rishabhhgit/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishabhhgit/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2542-maximum-subsequence-score](https://github.com/rishabhhgit/LeetCode/tree/master/2542-maximum-subsequence-score) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/rishabhhgit/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rishabhhgit/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/rishabhhgit/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/rishabhhgit/LeetCode/tree/master/2542-maximum-subsequence-score) |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/rishabhhgit/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/rishabhhgit/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
