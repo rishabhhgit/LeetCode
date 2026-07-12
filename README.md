@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishabhhgit/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rishabhhgit/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rishabhhgit/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2439-minimize-maximum-of-array](https://github.com/rishabhhgit/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/rishabhhgit/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/rishabhhgit/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rishabhhgit/LeetCode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/rishabhhgit/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [2439-minimize-maximum-of-array](https://github.com/rishabhhgit/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishabhhgit/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/rishabhhgit/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishabhhgit/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2439-minimize-maximum-of-array](https://github.com/rishabhhgit/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 ## String
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishabhhgit/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2439-minimize-maximum-of-array](https://github.com/rishabhhgit/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2542-maximum-subsequence-score](https://github.com/rishabhhgit/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/rishabhhgit/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Depth-First Search
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/rishabhhgit/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishabhhgit/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2187-minimum-time-to-complete-trips](https://github.com/rishabhhgit/LeetCode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2439-minimize-maximum-of-array](https://github.com/rishabhhgit/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 ## Queue
 |  |
 | ------- |
