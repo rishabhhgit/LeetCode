@@ -4,6 +4,7 @@ public:
         long long count=0;
         for(int i=0;i<nums.size();i++){
             count+=(mid/nums[i])*1LL;
+            if (count >= x) return true;
         }
         return count>=x;
     }
