@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/rishabhhgit/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0633-sum-of-square-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rishabhhgit/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhhgit/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishabhhgit/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/rishabhhgit/LeetCode/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rishabhhgit/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1754-largest-merge-of-two-strings](https://github.com/rishabhhgit/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/rishabhhgit/LeetCode/tree/master/1768-merge-strings-alternately) |
