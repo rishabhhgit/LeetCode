@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhhgit/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rishabhhgit/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1095-find-in-mountain-array](https://github.com/rishabhhgit/LeetCode/tree/master/1095-find-in-mountain-array) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rishabhhgit/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-rank-transform-of-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishabhhgit/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rishabhhgit/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/rishabhhgit/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rishabhhgit/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2439-minimize-maximum-of-array](https://github.com/rishabhhgit/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rishabhhgit/LeetCode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/rishabhhgit/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
 | [0991-broken-calculator](https://github.com/rishabhhgit/LeetCode/tree/master/0991-broken-calculator) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rishabhhgit/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1754-largest-merge-of-two-strings](https://github.com/rishabhhgit/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishabhhgit/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
