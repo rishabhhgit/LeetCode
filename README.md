@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/rishabhhgit/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/rishabhhgit/LeetCode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/rishabhhgit/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/rishabhhgit/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Sliding Window
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rishabhhgit/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishabhhgit/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rishabhhgit/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/rishabhhgit/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rishabhhgit/LeetCode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/rishabhhgit/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Counting
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1754-largest-merge-of-two-strings](https://github.com/rishabhhgit/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/rishabhhgit/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2516-take-k-of-each-character-from-left-and-right](https://github.com/rishabhhgit/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/rishabhhgit/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/rishabhhgit/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
