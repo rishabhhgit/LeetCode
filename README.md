@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishabhhgit/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/rishabhhgit/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/rishabhhgit/LeetCode/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/rishabhhgit/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rishabhhgit/LeetCode/tree/master/0055-jump-game) |
 | [0368-largest-divisible-subset](https://github.com/rishabhhgit/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rishabhhgit/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2439-minimize-maximum-of-array](https://github.com/rishabhhgit/LeetCode/tree/master/2439-minimize-maximum-of-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rishabhhgit/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/rishabhhgit/LeetCode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/rishabhhgit/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
