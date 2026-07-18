@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/rishabhhgit/LeetCode/tree/master/0263-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/rishabhhgit/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0633-sum-of-square-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0991-broken-calculator](https://github.com/rishabhhgit/LeetCode/tree/master/0991-broken-calculator) |
