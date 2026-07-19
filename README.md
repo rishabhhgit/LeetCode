@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishabhhgit/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rishabhhgit/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rishabhhgit/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishabhhgit/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/rishabhhgit/LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rishabhhgit/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1331-rank-transform-of-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishabhhgit/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/rishabhhgit/LeetCode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/rishabhhgit/LeetCode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/rishabhhgit/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rishabhhgit/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rishabhhgit/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/rishabhhgit/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/rishabhhgit/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/rishabhhgit/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
