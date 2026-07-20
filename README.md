@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabhhgit/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rishabhhgit/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0983-minimum-cost-for-tickets](https://github.com/rishabhhgit/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rishabhhgit/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1095-find-in-mountain-array](https://github.com/rishabhhgit/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rishabhhgit/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rishabhhgit/LeetCode/tree/master/0055-jump-game) |
 | [0368-largest-divisible-subset](https://github.com/rishabhhgit/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/rishabhhgit/LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0983-minimum-cost-for-tickets](https://github.com/rishabhhgit/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rishabhhgit/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2439-minimize-maximum-of-array](https://github.com/rishabhhgit/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rishabhhgit/LeetCode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
