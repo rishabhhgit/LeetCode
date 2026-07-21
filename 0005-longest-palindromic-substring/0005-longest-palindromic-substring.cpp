@@ -1,10 +1,11 @@
 class Solution {
 public:
+    int arr[1001][1001];
     bool check(string &s,int i,int j){
         if(i>=j) return true;
-
-        if(s[i]==s[j]) return check(s,i+1,j-1);
-        else return false;
+        if(arr[i][j]!=-1) return arr[i][j];
+        if(s[i]==s[j]) return arr[i][j]=check(s,i+1,j-1);
+        else return arr[i][j] = false;
     }
 
     string solve(string &s){
@@ -25,6 +26,7 @@ public:
 
     }
     string longestPalindrome(string s) {
+        memset(arr,-1,sizeof(arr));
         return solve(s);
     }
 };
