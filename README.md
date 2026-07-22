@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rishabhhgit/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0983-minimum-cost-for-tickets](https://github.com/rishabhhgit/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rishabhhgit/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/rishabhhgit/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1095-find-in-mountain-array](https://github.com/rishabhhgit/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rishabhhgit/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-rank-transform-of-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rishabhhgit/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/rishabhhgit/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1331-rank-transform-of-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/rishabhhgit/LeetCode/tree/master/2251-number-of-flowers-in-full-bloom) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/rishabhhgit/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
@@ -272,4 +274,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/rishabhhgit/LeetCode/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/rishabhhgit/LeetCode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
