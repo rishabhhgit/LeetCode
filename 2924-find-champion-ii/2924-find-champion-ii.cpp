@@ -7,14 +7,15 @@ public:
             int v=it[1];
             indegree[v]++;
         }
-        int ans=-1;
-        queue<int>q;
-        for(int i=0;i<indegree.size();i++){
-            if(indegree[i]==0){
-                q.push(i);
+        int ans = -1;
+
+        for (int i = 0; i < n; i++) {
+            if (indegree[i] == 0) {
+                if (ans != -1) return -1; 
+                ans = i;
             }
         }
-        if(q.size()==1) return q.front();
-        else return -1;
+
+        return ans;
     }
 };
