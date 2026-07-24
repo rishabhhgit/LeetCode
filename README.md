@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1754-largest-merge-of-two-strings](https://github.com/rishabhhgit/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/rishabhhgit/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2278-percentage-of-letter-in-string](https://github.com/rishabhhgit/LeetCode/tree/master/2278-percentage-of-letter-in-string) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/rishabhhgit/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/rishabhhgit/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/rishabhhgit/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
