@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishabhhgit/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/rishabhhgit/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/rishabhhgit/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/rishabhhgit/LeetCode/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -283,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/rishabhhgit/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/rishabhhgit/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
