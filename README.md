@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/rishabhhgit/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/rishabhhgit/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rishabhhgit/LeetCode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2762-continuous-subarrays](https://github.com/rishabhhgit/LeetCode/tree/master/2762-continuous-subarrays) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rishabhhgit/LeetCode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishabhhgit/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/rishabhhgit/LeetCode/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2516-take-k-of-each-character-from-left-and-right](https://github.com/rishabhhgit/LeetCode/tree/master/2516-take-k-of-each-character-from-left-and-right) |
+| [2762-continuous-subarrays](https://github.com/rishabhhgit/LeetCode/tree/master/2762-continuous-subarrays) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rishabhhgit/LeetCode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/rishabhhgit/LeetCode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Counting
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/rishabhhgit/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/rishabhhgit/LeetCode/tree/master/2542-maximum-subsequence-score) |
+| [2762-continuous-subarrays](https://github.com/rishabhhgit/LeetCode/tree/master/2762-continuous-subarrays) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/rishabhhgit/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search
 |  |
@@ -224,16 +227,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rishabhhgit/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rishabhhgit/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2762-continuous-subarrays](https://github.com/rishabhhgit/LeetCode/tree/master/2762-continuous-subarrays) |
 ## Ordered Set
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rishabhhgit/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/rishabhhgit/LeetCode/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2762-continuous-subarrays](https://github.com/rishabhhgit/LeetCode/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rishabhhgit/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rishabhhgit/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2762-continuous-subarrays](https://github.com/rishabhhgit/LeetCode/tree/master/2762-continuous-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
