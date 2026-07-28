@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0841-keys-and-rooms](https://github.com/rishabhhgit/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/rishabhhgit/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1615-maximal-network-rank](https://github.com/rishabhhgit/LeetCode/tree/master/1615-maximal-network-rank) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/rishabhhgit/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2924-find-champion-ii](https://github.com/rishabhhgit/LeetCode/tree/master/2924-find-champion-ii) |
 ## Topological Sort
