@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/rishabhhgit/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rishabhhgit/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0491-non-decreasing-subsequences](https://github.com/rishabhhgit/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0621-task-scheduler](https://github.com/rishabhhgit/LeetCode/tree/master/0621-task-scheduler) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rishabhhgit/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/rishabhhgit/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/rishabhhgit/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/rishabhhgit/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
@@ -302,4 +304,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rishabhhgit/LeetCode/tree/master/0046-permutations) |
+| [0491-non-decreasing-subsequences](https://github.com/rishabhhgit/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0491-non-decreasing-subsequences](https://github.com/rishabhhgit/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 <!---LeetCode Topics End-->
