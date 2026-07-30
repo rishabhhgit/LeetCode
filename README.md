@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/rishabhhgit/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rishabhhgit/LeetCode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2762-continuous-subarrays](https://github.com/rishabhhgit/LeetCode/tree/master/2762-continuous-subarrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rishabhhgit/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rishabhhgit/LeetCode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Math
 |  |
@@ -192,10 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/rishabhhgit/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1462-course-schedule-iv](https://github.com/rishabhhgit/LeetCode/tree/master/1462-course-schedule-iv) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/rishabhhgit/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rishabhhgit/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rishabhhgit/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/rishabhhgit/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/rishabhhgit/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2762-continuous-subarrays](https://github.com/rishabhhgit/LeetCode/tree/master/2762-continuous-subarrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rishabhhgit/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/rishabhhgit/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search
 |  |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/rishabhhgit/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/rishabhhgit/LeetCode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/rishabhhgit/LeetCode/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rishabhhgit/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -313,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/rishabhhgit/LeetCode/tree/master/0491-non-decreasing-subsequences) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/rishabhhgit/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
