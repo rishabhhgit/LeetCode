@@ -10,20 +10,16 @@ public:
                     bricks-=diff;
                     maxHeap.push(diff);
                 }
-                else if(ladders>0 && !maxHeap.empty()){
-                    int currTop=maxHeap.top();
-                    if(currTop>=diff){
-                        bricks+=currTop;
-                        bricks-=diff;
-                        maxHeap.pop();
-                        maxHeap.push(diff);
-                        ladders--;
-                    }
-                    else if(ladders>0){
-                        ladders--;
-                    }
-                }
                 else if(ladders>0){
+                    if(!maxHeap.empty()){
+                        int currTop=maxHeap.top();
+                        if(currTop>=diff){
+                            bricks+=currTop;
+                            bricks-=diff;
+                            maxHeap.pop();
+                            maxHeap.push(diff);
+                        }
+                    }
                     ladders--;
                 }
                 else break;
