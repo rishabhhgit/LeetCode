@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/rishabhhgit/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rishabhhgit/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/rishabhhgit/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1642-furthest-building-you-can-reach](https://github.com/rishabhhgit/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/rishabhhgit/LeetCode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishabhhgit/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/rishabhhgit/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rishabhhgit/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/rishabhhgit/LeetCode/tree/master/1402-reducing-dishes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/rishabhhgit/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1642-furthest-building-you-can-reach](https://github.com/rishabhhgit/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1754-largest-merge-of-two-strings](https://github.com/rishabhhgit/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rishabhhgit/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rishabhhgit/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rishabhhgit/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1642-furthest-building-you-can-reach](https://github.com/rishabhhgit/LeetCode/tree/master/1642-furthest-building-you-can-reach) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/rishabhhgit/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/rishabhhgit/LeetCode/tree/master/2542-maximum-subsequence-score) |
 | [2762-continuous-subarrays](https://github.com/rishabhhgit/LeetCode/tree/master/2762-continuous-subarrays) |
