@@ -1,28 +1,35 @@
-#include <vector>
-#include <queue>
-
 class Solution {
 public:
-    int furthestBuilding(std::vector<int>& heights, int bricks, int ladders) {
-        std::priority_queue<int, std::vector<int>, std::greater<int>> pq;
-        
-        for (int i = 0; i < heights.size() - 1; ++i) {
-            int diff = heights[i + 1] - heights[i];
-            
-            if (diff > 0) {
-                pq.push(diff);
-                
-                if (pq.size() > ladders) {
-                    bricks -= pq.top();
-                    pq.pop();
+    int furthestBuilding(vector<int>& nums, int bricks, int ladders) {
+        priority_queue<int>maxHeap;
+        int i=0;
+        while(i<nums.size()-1){
+            int diff=nums[i+1]-nums[i];
+            if(diff>0){
+                if(bricks>=diff){
+                    bricks-=diff;
+                    maxHeap.push(diff);
                 }
-                
-                if (bricks < 0) {
-                    return i;
+                else if(ladders>0 && !maxHeap.empty()){
+                    int currTop=maxHeap.top();
+                    if(currTop>=diff){
+                        bricks+=currTop;
+                        bricks-=diff;
+                        maxHeap.pop();
+                        maxHeap.push(diff);
+                        ladders--;
+                    }
+                    else if(ladders>0){
+                        ladders--;
+                    }
                 }
+                else if(ladders>0){
+                    ladders--;
+                }
+                else break;
             }
+            i++;
         }
-        
-        return heights.size() - 1;
+        return i;
     }
 };
