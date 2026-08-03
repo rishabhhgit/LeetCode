@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhhgit/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/rishabhhgit/LeetCode/tree/master/0134-gas-station) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/rishabhhgit/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/rishabhhgit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0368-largest-divisible-subset](https://github.com/rishabhhgit/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/rishabhhgit/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/rishabhhgit/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rishabhhgit/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rishabhhgit/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/rishabhhgit/LeetCode/tree/master/1480-running-sum-of-1d-array) |
