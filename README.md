@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishabhhgit/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishabhhgit/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/rishabhhgit/LeetCode/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/rishabhhgit/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/rishabhhgit/LeetCode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/rishabhhgit/LeetCode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/rishabhhgit/LeetCode/tree/master/0055-jump-game) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishabhhgit/LeetCode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/rishabhhgit/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/rishabhhgit/LeetCode/tree/master/0041-first-missing-positive) |
 | [0491-non-decreasing-subsequences](https://github.com/rishabhhgit/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/rishabhhgit/LeetCode/tree/master/0567-permutation-in-string) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rishabhhgit/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/rishabhhgit/LeetCode/tree/master/0046-permutations) |
 | [0491-non-decreasing-subsequences](https://github.com/rishabhhgit/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 ## Bit Manipulation
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rishabhhgit/LeetCode/tree/master/0037-sudoku-solver) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rishabhhgit/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
@@ -361,4 +365,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishabhhgit/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rishabhhgit/LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rishabhhgit/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
