@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2762-continuous-subarrays](https://github.com/rishabhhgit/LeetCode/tree/master/2762-continuous-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rishabhhgit/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/rishabhhgit/LeetCode/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/rishabhhgit/LeetCode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 ## Math
 |  |
 | ------- |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2762-continuous-subarrays](https://github.com/rishabhhgit/LeetCode/tree/master/2762-continuous-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rishabhhgit/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3170-lexicographically-minimum-string-after-removing-stars](https://github.com/rishabhhgit/LeetCode/tree/master/3170-lexicographically-minimum-string-after-removing-stars) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/rishabhhgit/LeetCode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2462-total-cost-to-hire-k-workers](https://github.com/rishabhhgit/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/rishabhhgit/LeetCode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
