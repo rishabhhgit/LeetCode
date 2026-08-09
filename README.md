@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/rishabhhgit/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rishabhhgit/LeetCode/tree/master/0263-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/rishabhhgit/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0633-sum-of-square-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/0633-sum-of-square-numbers) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rishabhhgit/LeetCode/tree/master/0258-add-digits) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/rishabhhgit/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3266-final-array-state-after-k-multiplication-operations-ii](https://github.com/rishabhhgit/LeetCode/tree/master/3266-final-array-state-after-k-multiplication-operations-ii) |
 ## Divide and Conquer
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rishabhhgit/LeetCode/tree/master/0037-sudoku-solver) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rishabhhgit/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
