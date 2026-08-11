@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rishabhhgit/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishabhhgit/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/rishabhhgit/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rishabhhgit/LeetCode/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/rishabhhgit/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/rishabhhgit/LeetCode/tree/master/0041-first-missing-positive) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rishabhhgit/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/rishabhhgit/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/rishabhhgit/LeetCode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/rishabhhgit/LeetCode/tree/master/0621-task-scheduler) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishabhhgit/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/rishabhhgit/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rishabhhgit/LeetCode/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/rishabhhgit/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/rishabhhgit/LeetCode/tree/master/0567-permutation-in-string) |
