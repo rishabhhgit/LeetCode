@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishabhhgit/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/rishabhhgit/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/rishabhhgit/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rishabhhgit/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhhgit/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishabhhgit/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/rishabhhgit/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/rishabhhgit/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0065-valid-number](https://github.com/rishabhhgit/LeetCode/tree/master/0065-valid-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/rishabhhgit/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/rishabhhgit/LeetCode/tree/master/0567-permutation-in-string) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/rishabhhgit/LeetCode/tree/master/0010-regular-expression-matching) |
 ## Pigeonhole Principle
 |  |
 | ------- |
