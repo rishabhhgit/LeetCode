@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/rishabhhgit/LeetCode/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/rishabhhgit/LeetCode/tree/master/0060-permutation-sequence) |
 | [0258-add-digits](https://github.com/rishabhhgit/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rishabhhgit/LeetCode/tree/master/0263-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/rishabhhgit/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/rishabhhgit/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/rishabhhgit/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/rishabhhgit/LeetCode/tree/master/0060-permutation-sequence) |
 ## Pigeonhole Principle
 |  |
 | ------- |
