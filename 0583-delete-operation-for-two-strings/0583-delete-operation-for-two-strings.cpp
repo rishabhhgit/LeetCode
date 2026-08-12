@@ -1,6 +1,6 @@
 class Solution {
 public:
-int arr[1001][1001];
+int arr[501][501];
 int lcs(string word1,string word2,int i,int j){
     //base case
     if(i>=word1.size() || j>=word2.size()){
