@@ -1,36 +1,40 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int i=0;
-        int j=0;
+        if (nums1.size() > nums2.size()) {
+            return findMedianSortedArrays(nums2, nums1);
+        }
 
-        int n1=nums1.size();
-        int n2=nums2.size();
-        vector<int>ans;
-        while(i<n1 && j<n2){
-            if(nums1[i]>nums2[j]){
-                ans.push_back(nums2[j]);
-                j++;
+        int m = nums1.size();
+        int n = nums2.size();
+        int low = 0, high = m;
+
+        while (low <= high) {
+            int i = (low + high) / 2;
+            int j = (m + n + 1) / 2 - i;
+
+            int maxLeft1 = (i == 0) ? INT_MIN : nums1[i - 1];
+            int minRight1 = (i == m) ? INT_MAX : nums1[i];
+
+            int maxLeft2 = (j == 0) ? INT_MIN : nums2[j - 1];
+            int minRight2 = (j == n) ? INT_MAX : nums2[j];
+
+            if (maxLeft1 <= minRight2 && maxLeft2 <= minRight1) {
+                if ((m + n) % 2 == 0) {
+                    return (max(maxLeft1, maxLeft2) + min(minRight1, minRight2)) / 2.0;
+                } else {
+                    return max(maxLeft1, maxLeft2);
+                }
+            } else if (maxLeft1 > minRight2) {
+                high = i - 1;
+            } else {
+                low = i + 1;
             }
-            else{
-                ans.push_back(nums1[i]);
-                i++;
-            }
         }
-        while(i<n1){
-            ans.push_back(nums1[i]);
-            i++;
-        }
-        while(j<n2){
-            ans.push_back(nums2[j]);
-            j++;
-        }
-        int n=ans.size();
-        if(n%2!=0) return ans[n/2];
-        else{
-            double result=0;
-            result+=(double)((double)ans[n/2.0]+ (double)ans[(n/2.0)-1.0])/2;
-            return result;
-        }
+
+        return 0.0;
     }
 };
