@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/rishabhhgit/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rishabhhgit/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/rishabhhgit/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/rishabhhgit/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 ## Prefix Sum
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/rishabhhgit/LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1143-longest-common-subsequence](https://github.com/rishabhhgit/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/rishabhhgit/LeetCode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/rishabhhgit/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishabhhgit/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1754-largest-merge-of-two-strings](https://github.com/rishabhhgit/LeetCode/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/rishabhhgit/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/rishabhhgit/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
 | [0991-broken-calculator](https://github.com/rishabhhgit/LeetCode/tree/master/0991-broken-calculator) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/rishabhhgit/LeetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/rishabhhgit/LeetCode/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1402-reducing-dishes](https://github.com/rishabhhgit/LeetCode/tree/master/1402-reducing-dishes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/rishabhhgit/LeetCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
