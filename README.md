@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rishabhhgit/LeetCode/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/rishabhhgit/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/rishabhhgit/LeetCode/tree/master/0041-first-missing-positive) |
+| [0127-word-ladder](https://github.com/rishabhhgit/LeetCode/tree/master/0127-word-ladder) |
 | [0491-non-decreasing-subsequences](https://github.com/rishabhhgit/LeetCode/tree/master/0491-non-decreasing-subsequences) |
 | [0567-permutation-in-string](https://github.com/rishabhhgit/LeetCode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/rishabhhgit/LeetCode/tree/master/0621-task-scheduler) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/rishabhhgit/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/rishabhhgit/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0065-valid-number](https://github.com/rishabhhgit/LeetCode/tree/master/0065-valid-number) |
+| [0127-word-ladder](https://github.com/rishabhhgit/LeetCode/tree/master/0127-word-ladder) |
 | [0516-longest-palindromic-subsequence](https://github.com/rishabhhgit/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/rishabhhgit/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/rishabhhgit/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/rishabhhgit/LeetCode/tree/master/0127-word-ladder) |
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/rishabhhgit/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1462-course-schedule-iv](https://github.com/rishabhhgit/LeetCode/tree/master/1462-course-schedule-iv) |
@@ -443,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishabhhgit/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/rishabhhgit/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
