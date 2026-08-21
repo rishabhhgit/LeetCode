@@ -1,35 +1,42 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
-        if (!head || k == 1) return head;
+        if (!head || k == 1)
+            return head;
+        ListNode dummy(0);
+        dummy.next = head;
+        ListNode* prevGroup = &dummy;
 
-        ListNode* dummy = new ListNode(0);
-        dummy->next = head;
-        ListNode* prevGroupEnd = dummy;
-        ListNode* curr = head;
-
-        int count = 0;
-        ListNode* temp = head;
-        while (temp) {
-            count++;
-            temp = temp->next;
-        }
-
-        while (count >= k) {
-            curr = prevGroupEnd->next;
-            ListNode* nextNode = curr->next;
-            for (int i = 1; i < k; ++i) {
-                curr->next = nextNode->next;
-                nextNode->next = prevGroupEnd->next;
-                prevGroupEnd->next = nextNode;
-                nextNode = curr->next;
+        while (true) {
+            ListNode* kth = prevGroup;
+            for (int i = 0; i < k && kth; ++i) {
+                kth = kth->next;
             }
-            prevGroupEnd = curr;
-            count -= k;
+            if (!kth)
+                break;
+            ListNode* groupNext = kth->next;
+            ListNode* prev = groupNext;
+            ListNode* curr = prevGroup->next;
+            while (curr != groupNext) {
+                ListNode* tmp = curr->next;
+                curr->next = prev;
+                prev = curr;
+                curr = tmp;
+            }
+            ListNode* tmp = prevGroup->next;
+            prevGroup->next = kth;
+            prevGroup = tmp;
         }
-
-        ListNode* result = dummy->next;
-        delete dummy;
-        return result;
+        return dummy.next;
     }
 };
