@@ -1,25 +1,24 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if (numRows == 1)
+        if (numRows <= 1 || numRows >= (int)s.size())
             return s;
-
-        vector<string> rows(min(numRows, int(s.size())));
-        int currentRow = 0;
-        bool goingDown = false;
-
+        vector<string> rows(numRows);
+        int cur = 0, step = 1;
         for (char c : s) {
-            rows[currentRow] += c;
-            if (currentRow == 0 || currentRow == numRows - 1) {
-                goingDown = !goingDown;
-            }
-            currentRow += goingDown ? 1 : -1;
+            rows[cur] += c;
+            if (cur == 0)
+                step = 1;
+            else if (cur == numRows - 1)
+                step = -1;
+            cur += step;
         }
-
-        string result;
-        for (string row : rows) {
-            result += row;
-        }
-        return result;
+        string ans;
+        for (auto& row : rows)
+            ans += row;
+        return ans;
     }
 };
