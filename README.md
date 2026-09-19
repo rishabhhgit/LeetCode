@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rishabhhgit/LeetCode/tree/master/0207-course-schedule) |
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/rishabhhgit/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1462-course-schedule-iv](https://github.com/rishabhhgit/LeetCode/tree/master/1462-course-schedule-iv) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/rishabhhgit/LeetCode/tree/master/0127-word-ladder) |
+| [0207-course-schedule](https://github.com/rishabhhgit/LeetCode/tree/master/0207-course-schedule) |
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/rishabhhgit/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1462-course-schedule-iv](https://github.com/rishabhhgit/LeetCode/tree/master/1462-course-schedule-iv) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rishabhhgit/LeetCode/tree/master/0207-course-schedule) |
 | [0841-keys-and-rooms](https://github.com/rishabhhgit/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/rishabhhgit/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/rishabhhgit/LeetCode/tree/master/1462-course-schedule-iv) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rishabhhgit/LeetCode/tree/master/0207-course-schedule) |
 | [1462-course-schedule-iv](https://github.com/rishabhhgit/LeetCode/tree/master/1462-course-schedule-iv) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/rishabhhgit/LeetCode/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Backtracking
@@ -471,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/rishabhhgit/LeetCode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/rishabhhgit/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rishabhhgit/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rishabhhgit/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
