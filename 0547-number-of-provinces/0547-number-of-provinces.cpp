@@ -32,6 +32,7 @@ public:
         for (int i = 0; i < nums.size(); i++) {
             if (!visited[i]) {
                 q.push(i);
+                visited[i]=true;
                 bfs(q, nums, visited, adj);
                 count++;
             }
