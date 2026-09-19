@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/rishabhhgit/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rishabhhgit/LeetCode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/rishabhhgit/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/rishabhhgit/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1462-course-schedule-iv](https://github.com/rishabhhgit/LeetCode/tree/master/1462-course-schedule-iv) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/rishabhhgit/LeetCode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/rishabhhgit/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rishabhhgit/LeetCode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/rishabhhgit/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/rishabhhgit/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1462-course-schedule-iv](https://github.com/rishabhhgit/LeetCode/tree/master/1462-course-schedule-iv) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/rishabhhgit/LeetCode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/rishabhhgit/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/rishabhhgit/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rishabhhgit/LeetCode/tree/master/0207-course-schedule) |
+| [0785-is-graph-bipartite](https://github.com/rishabhhgit/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/rishabhhgit/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/rishabhhgit/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/rishabhhgit/LeetCode/tree/master/1462-course-schedule-iv) |
@@ -484,4 +488,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rishabhhgit/LeetCode/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/rishabhhgit/LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/rishabhhgit/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
