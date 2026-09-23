@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/rishabhhgit/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0516-longest-palindromic-subsequence](https://github.com/rishabhhgit/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/rishabhhgit/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rishabhhgit/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/rishabhhgit/LeetCode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0983-minimum-cost-for-tickets](https://github.com/rishabhhgit/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1143-longest-common-subsequence](https://github.com/rishabhhgit/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rishabhhgit/LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/rishabhhgit/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/rishabhhgit/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rishabhhgit/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/rishabhhgit/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1462-course-schedule-iv](https://github.com/rishabhhgit/LeetCode/tree/master/1462-course-schedule-iv) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rishabhhgit/LeetCode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/rishabhhgit/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/rishabhhgit/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rishabhhgit/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0839-similar-string-groups](https://github.com/rishabhhgit/LeetCode/tree/master/0839-similar-string-groups) |
 | [0841-keys-and-rooms](https://github.com/rishabhhgit/LeetCode/tree/master/0841-keys-and-rooms) |
 | [1462-course-schedule-iv](https://github.com/rishabhhgit/LeetCode/tree/master/1462-course-schedule-iv) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/rishabhhgit/LeetCode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/rishabhhgit/LeetCode/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/rishabhhgit/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rishabhhgit/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/rishabhhgit/LeetCode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/rishabhhgit/LeetCode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rishabhhgit/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/rishabhhgit/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/rishabhhgit/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/rishabhhgit/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rishabhhgit/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/rishabhhgit/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/rishabhhgit/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1462-course-schedule-iv](https://github.com/rishabhhgit/LeetCode/tree/master/1462-course-schedule-iv) |
@@ -526,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/rishabhhgit/LeetCode/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rishabhhgit/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
