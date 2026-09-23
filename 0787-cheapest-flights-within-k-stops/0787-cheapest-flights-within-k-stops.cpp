@@ -25,7 +25,7 @@ public:
 
             if (node == dst) return val;
 
-            if (k_took == k + 1) continue;
+            if (k_took > k) continue;
 
             for(auto &it:adj[node]){
                 int new_node=it.first;
