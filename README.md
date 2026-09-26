@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rishabhhgit/LeetCode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rishabhhgit/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabhhgit/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0130-surrounded-regions](https://github.com/rishabhhgit/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/rishabhhgit/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/rishabhhgit/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/rishabhhgit/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rishabhhgit/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rishabhhgit/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rishabhhgit/LeetCode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rishabhhgit/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/rishabhhgit/LeetCode/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/rishabhhgit/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rishabhhgit/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rishabhhgit/LeetCode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rishabhhgit/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rishabhhgit/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rishabhhgit/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/rishabhhgit/LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/rishabhhgit/LeetCode/tree/master/0695-max-area-of-island) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rishabhhgit/LeetCode/tree/master/0037-sudoku-solver) |
+| [0130-surrounded-regions](https://github.com/rishabhhgit/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rishabhhgit/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/rishabhhgit/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/rishabhhgit/LeetCode/tree/master/0463-island-perimeter) |
